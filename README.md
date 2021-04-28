@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaaemFaridi07 AKA THE_07
 - 👀 I’m interested in Game Devolopment, Programming, Making Awful Applications And Programs
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
