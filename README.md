@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaaemFaridi07
+- 👋 Hi, I’m @SaaemFaridi07 AKA THE_07
 - 👀 I’m interested in Game Devolopment, Programming, Making Awful Applications And Programs
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
